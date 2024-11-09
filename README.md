@@ -17,6 +17,7 @@ Sales Trends: Analyzing monthly trends in quantity sold from 2022 to 2023
 
 # Features and Interactivity
 Year and Customer Filters: Users can view data for specific years or filter by customer
+
 Visualization Standards: Following company guidelines, filters are in the upper-left corner, with no pie charts or tabular displays
 
 # Tools and Skills 
