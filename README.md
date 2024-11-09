@@ -8,11 +8,14 @@ This dashboard was created to support financial reporting for Velocity Gear, a g
 The dashboard answers critical business questions, such as:
 
 Customer Revenue Comparison: Identifying the largest customer by gross revenue
-Product Performance: Highlighting the top 3 products based on margin generated in 2022
-Market Analysis: Determining the top metropolitan market based on net revenue
-Sales Trends: Analyzing monthly trends in quantity sold from 2022 to 2023
-Features and Interactivity
 
+Product Performance: Highlighting the top 3 products based on margin generated in 2022
+
+Market Analysis: Determining the top metropolitan market based on net revenue
+
+Sales Trends: Analyzing monthly trends in quantity sold from 2022 to 2023
+
+# Features and Interactivity
 Year and Customer Filters: Users can view data for specific years or filter by customer
 Visualization Standards: Following company guidelines, filters are in the upper-left corner, with no pie charts or tabular displays
 
